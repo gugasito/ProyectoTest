@@ -1,3 +1,7 @@
 # ProyectoTest
-V1
-uwu
+
+Integrantes:
+Adonis Subiabre
+Gustavo Soto
+
+https://gugasito.github.io/ProyectoTest/
