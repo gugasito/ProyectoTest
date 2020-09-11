@@ -1,7 +1,7 @@
 # ProyectoTest
 
 Integrantes:
-Adonis Subiabre
+Adonis Subiabre,
 Gustavo Soto
 
 https://gugasito.github.io/ProyectoTest/
